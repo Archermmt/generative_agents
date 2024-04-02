@@ -1,3 +1,7 @@
+# temp files
+environment/frontend_server/temp_storage
+environment/frontend_server/storage/test-simulation
+
 reverie/backend_server/utils.py
 frontend_server/settings/local.py
 storage/*
